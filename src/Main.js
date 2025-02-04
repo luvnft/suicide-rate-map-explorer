@@ -74,7 +74,7 @@ function Main() {
       {showBanner && (
         <div id="banner">
           <p>
-            Are you thinking about killing yourself? Talk to someone in the U.S. by calling or texting{' '}
+            Are you thinking about killing yourself? Talk to someone in the New Jersey by calling or texting{' '}
             <i>
               <a href="tel:988" target="_blank" rel="noreferrer">
                 988
@@ -82,7 +82,7 @@ function Main() {
             </i>{' '}
             or{' '}
             <a href="http://www.suicide.org/hotlines/international-suicide-hotlines.html" target="_blank" rel="noreferrer">
-              talk to someone in your country
+              talk to someone near you.
             </a>
             .
           </p>
@@ -98,11 +98,11 @@ function Main() {
       <header className="App-header">
         <h1>2020 Suicide Rate Map Explorer</h1>
         <p>
-          This map illustrates the number of people who died by suicide across the counties of the United States with county
-          religious attendance data. <br />
-          <b>Click a county to isolate that state's data.</b>{' '}
+          This map illustrates the number of people who died by suicide in New Jersey.
+          <br />
+          <b>Click a city to isolate the data.</b>{' '}
           <a href="/" value="0">
-            View All States
+            View All Cities
           </a>
         </p>
       </header>
