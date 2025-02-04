@@ -193,13 +193,4 @@ No Religious Attendance\: <span style\="color\:red;"\></span>{roundTo4(100 - val
           </button>
           <h3>Data Sources</h3>
           <p>
-            <b>Health Data</b>
-            <br />
-            Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System,
-            Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death
-            Files, 1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital
-            Statistics Cooperative Program. Accessed at{' '}
-            <a href="http://wonder.cdc.gov/ucd-icd10.html" target="_blank" rel="noreferrer">
-              http://wonder.cdc.gov/ucd-icd10.html
-            </a>{' '}
-            on Oct 18, 2022 5
+
